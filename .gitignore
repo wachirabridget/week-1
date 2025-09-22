@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Unity generated folders
 Library/
 Temp/
@@ -31,3 +32,6 @@ Thumbs.db
 *.dylib
 *.so
 "Library/" 
+=======
+# Unity .gitignore 
+>>>>>>> 25600c1e (Apply Unity .gitignore and clean tracked files)
