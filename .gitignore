@@ -30,5 +30,6 @@ Thumbs.db
 .vs/
 .idea/
 
+
 # Exclude the cache, but keep Packages/ and ProjectSettings/
 # (Do NOT ignore ProjectSettings/ or Packages/ - they should be versioned)
