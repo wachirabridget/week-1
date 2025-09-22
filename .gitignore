@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Unity generated folders
 Library/
 Temp/
@@ -30,3 +31,6 @@ Thumbs.db
 *.pdb
 *.dylib
 *.so
+=======
+"Library/" 
+>>>>>>> 0fef4ac1 (Add gitignore and git lfs config)
